@@ -181,7 +181,7 @@ Returns a list of all products.
 
 ## ✨ Note
 
-We used AI assistance to help scaffold and design parts of the frontend UI, as the focus of this project was backend proficiency.
+I used AI assistance to help scaffold and design parts of the frontend UI, as the focus of this project was backend proficiency.
 
 ---
 
