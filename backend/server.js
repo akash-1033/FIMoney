@@ -3,7 +3,7 @@ const app = express();
 const cors = require("cors");
 const dotenv = require("dotenv");
 dotenv.config();
-const PORT = 8080;
+const PORT = process.env.PORT || 8080;
 
 const productRouter = require("./routes/products");
 const authRouter = require("./routes/auth");
